@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 - Navigate through the pages using the links in the navigation menu.
-![Home]([URL-de-la-imagen](https://github.com/balesquida/codingTasks/blob/main/Captura%20de%20pantalla%202024-06-12%20195342.png?raw=true))
+![Home](https://github.com/balesquida/codingTasks/blob/main/Captura%20de%20pantalla%202024-06-12%20195342.png?raw=true))
 
 - On the Home page, enter your name and click the Login button to log in.
 - After logging in, the input field will be replaced by a welcome message, and the Login button will change to a Logout button.
