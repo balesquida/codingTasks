@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 ![Products](https://github.com/balesquida/codingTasks/blob/main/products.png?raw=true)
 
 - When the 'buy' button is clicked, the total price component should be updated to display the total price of all purchased products. The total price component should be imported into every other component except the Home component and displayed at the top-right corner.
-![Buy](https://github.com/balesquida/codingTasks/blob/main/products.png?raw=true](https://github.com/balesquida/codingTasks/blob/main/price.png?raw=true)
+![Buy](https://github.com/balesquida/codingTasks/blob/main/price.png?raw=true)
 
 
 ## Credits
