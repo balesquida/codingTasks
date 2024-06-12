@@ -31,6 +31,7 @@ To run this project locally, follow these steps:
 - When the 'buy' button is clicked, the total price component should be updated to display the total price of all purchased products. The total price component should be imported into every other component except the Home component and displayed at the top-right corner.
 ![Buy](https://github.com/balesquida/codingTasks/blob/main/price.png?raw=true)
 
-
+- On your About component, make use of the React Bootstrap figures component
+ ![About](https://github.com/balesquida/codingTasks/blob/main/about.png?raw=true)
 ## Credits
 This project was developed by Balesquida Menendez de Luarca (https://github.com/balesquida).
